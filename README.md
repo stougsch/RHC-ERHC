@@ -1,5 +1,11 @@
-# RHC2-ERHC2
-Reduction through Homogeneous Clustering
+# RHC, ERHC2, RHC2, ERHC2, CNN, IB2
+
+RHC: Reduction through Homogeneous Clustering
+RHC2: Reduction through Homogeneous Clustering v2
+ERHC: Editing and Reduction through Homogeneous Clustering
+ERHC2: Editing and Reduction through Homogeneous Clustering v2
+CNN: Condensed Nearest Neighbour rule
+IB2: Instansed-based 2 
 
 Source codes in C++ for the implementation of the algorithms included in the experimental study of the paper titled "Reduction through homogeneous clustering: Variations for categorical data and fast data reduction"
 
