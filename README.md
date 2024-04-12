@@ -13,7 +13,7 @@ g++ cppfilename -o executablefilename
 
 algorithm directory/training_file directory/condensing_file number_of_folds
 
-example:
+Example:
 
 ./RHC pd/data-tr pd/data-rhc-cs 5
 
